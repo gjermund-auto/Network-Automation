@@ -1,1 +1,0 @@
-Gonna set up a couple of small switches in my homeoffice to have the lab environment started. Maybe later set up a virtual environment.
