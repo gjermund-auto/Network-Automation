@@ -1,1 +1,5 @@
-Using a couple of small switches in my homeoffice to have the lab environment started. Maybe later set up a virtual environment.
+Installed a vm on my ESXi server with tools that i need for the course.
+
+Installed a couple of small switches to have the lab environment started. Maybe later set up a virtual network equipment environment.
+
+Created a GitHub account, a local Git repository, and published this file to GitHub.
